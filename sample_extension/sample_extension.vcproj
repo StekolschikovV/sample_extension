@@ -173,11 +173,11 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\..\..\..\Downloads\sdk-master\samples\sample_extension\sample_extension.cc"
+				RelativePath="..\сс\sample_extension.cc"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\..\Downloads\sdk-master\samples\sample_extension\sample_extension_dllmain_win.cc"
+				RelativePath="..\сс\sample_extension_dllmain_win.cc"
 				>
 			</File>
 		</Filter>
